@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <ENEM>
 
@@ -1251,7 +1250,7 @@
 		      julgaram-na fria, anônima e imperdoável. Os materiais
 		      industriais pré-fabricados frequentemente usados não
 		      pareciam “arte”.
-		      DEMPSEY, A. Estilos, escolas e movimentos. São Paulo: Cosac & Naify, 2003 (adaptado).
+		      DEMPSEY, A. Estilos, escolas e movimentos. São Paulo: Cosac &amp; Naify, 2003 (adaptado).
 		      De acordo com os textos I e II, compreende-se que a obra
 		      minimalista é uma</ENUNCIADO>
 	  <ALTERNATIVA_A>representação da simplicidade pelo artista.</ALTERNATIVA_A>
@@ -2595,7 +2594,7 @@
 		      qualquer povo da história. No museu de Lima, podem ser
 		      vistos centenas de crânios que receberam placas de ouro
 		      e prata por parte dos cirurgiões Incas.
-		      GALEANO, E. As veias abertas da América Latina. Porto Alegre: L&PM, 2012.
+		      GALEANO, E. As veias abertas da América Latina. Porto Alegre: L&amp;PM, 2012.
 		      As sociedades mencionadas deixaram como legado uma
 		      diversidade de</ENUNCIADO>
 	  <ALTERNATIVA_A>bens religiosos inspirados na matriz cristã.</ALTERNATIVA_A>
@@ -4203,11 +4202,11 @@
 				em consequência dessa segunda divulgação, em relação
 				aos resultados observados na primeira divulgação, o
 				responsável pelo produto adotou o seguinte critério:
-				• Q ≤ 60%: não satisfatório;
-				• 60% < Q ≤ 100%: regular;
-				• 100% < Q ≤ 150%: bom;
-				• 150% < Q ≤ 190%: muito bom;
-				• 190% < Q ≤ 200%: excelente.
+				• Q &lt; = 60%: não satisfatório;
+				• 60% &lt; Q &lt; = 100%: regular;
+				• 100% &lt; Q &lt; = 150%: bom;
+				• 150% &lt; Q &lt; = 190%: muito bom;
+				• 190% &lt; Q &lt; = 200%: excelente.
 				O aumento na quantidade de compradores, em
 				consequência dessa segunda divulgação, em relação
 				ao que foi registrado com a primeira divulgação, foi
@@ -4471,7 +4470,7 @@
 	  <ALTERNATIVA_A>S(q) = 675 + 12q</ALTERNATIVA_A>
 	  <ALTERNATIVA_B>S(q) = 325 + 12q</ALTERNATIVA_B>
 	  <ALTERNATIVA_C>S(q) = 675 + 7q</ALTERNATIVA_C>
-	  <ALTERNATIVA_D>S(q) = (625 + 5q, se q =< 50; 625 + 5q, se q > 50; )</ALTERNATIVA_D>
+	  <ALTERNATIVA_D>S(q) = (625 + 5q, se q = &lt; 50; 625 + 5q, se q &gt; 50; )</ALTERNATIVA_D>
 	  <ALTERNATIVA_E></ALTERNATIVA_E>
 	  <CORRETA>Anulado</CORRETA>
 	</QUESTAO>
@@ -5057,4 +5056,3 @@
 	</QUESTAO>
 
 </ENEM>
-	
